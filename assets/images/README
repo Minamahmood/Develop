@@ -1,0 +1,7 @@
+<!--the first refactor in header section I used semantic element <nav></nav> for the handicap accessible.-->
+<!--the second refactor I added (alt) and (titile) for the image.-->
+<!--the third refactor I used (main) element and (section) for every.-->
+<!--I used <selection></selection> for all h2-->
+<!--I add <aside></aside> to the <h3></h3> section-->
+<!--the last refactor I changed to <footer></footer>---->
+<!--edit some of codes to the CSS style-->
